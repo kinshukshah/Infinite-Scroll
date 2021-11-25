@@ -1,0 +1,26 @@
+.custom-btn {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding: 10px 20px;
+  border: 1px solid #ff523b;
+}
+.btn-inverse {
+  background-color: #ff523b;
+  color: #fff;
+  opacity: 0.8;
+}
+.btn-inverse:hover {
+  background-color: #fff;
+  color: #ff523b;
+  opacity: 0.8;
+}
+.btn-simple {
+  background-color: #fff;
+  color: #ff523b;
+}
+.btn-simple:hover {
+  background-color: #ff523b;
+  color: #fff;
+  opacity: 0.8;
+}

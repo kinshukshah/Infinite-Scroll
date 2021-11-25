@@ -1,0 +1,42 @@
+.login-box {
+  margin: 0 auto;
+  height: max-content;
+  min-height: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 380px;
+  max-width: 98%;
+}
+.login-form-box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 1.5rem 0 0;
+}
+.login-head {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  padding: 1rem;
+  color: black;
+  letter-spacing: 3px;
+}
+.login-subhead {
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 300;
+}
+.sub-text {
+  cursor: pointer;
+  margin: 0.5rem 0 1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #1c1b1b;
+}
+.sub-text a {
+  padding-left: 0.1rem;
+  color: inherit;
+  text-decoration: none;
+}

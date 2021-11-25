@@ -1,0 +1,22 @@
+.infinite-list {
+  text-align: center;
+}
+.user-component {
+  text-align: center;
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+}
+.user-name {
+  font-size: larger;
+}
+.user-img img {
+  border-radius: 50%;
+}
+.user-img {
+  margin-right: 20px;
+}
+.loading {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
